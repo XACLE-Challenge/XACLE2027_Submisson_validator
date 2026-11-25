@@ -1,4 +1,4 @@
-# XACLE Submission Checker
+# XACLE Challenge 2027 Submission Checker
 
 `check.py` validates one or more XACLE Challenge 2027 submission packages from a ZIP archive, directory, or standalone YAML/CSV pair. When multiple YAML/CSV pairs are present, each submission is checked in turn. The script verifies:
 
